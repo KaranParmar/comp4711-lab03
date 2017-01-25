@@ -4,7 +4,7 @@ Team membership:  Karan (Captain) & Jake (Mate)
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version 0.2*
+## *Version 0.3*
 
 Release Date: Jan 24, 2017
 
@@ -32,6 +32,11 @@ Release Date: Jan 24, 2017
     -   about.php - edited and deleted redundant code (Karan)
     -   gallery.php - edited and deleted redundant code (Karan)
     -   welcome.php - edited and deleted redundant code (Karan)
+
+
+-   extra
+    -   implemented gpg sign key
+
 (
 
 
