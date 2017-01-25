@@ -7,9 +7,9 @@ class Welcome extends Application
 
 	public function index()
 	{
-            $this->load->view('about');
-		//$this->data['pagebody'] = 'about';
-		//$this->render(); 
+            //$this->load->view('about');
+		$this->data['pagebody'] = 'about';
+		$this->render(); 
 	}
 
 }
