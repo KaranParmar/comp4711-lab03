@@ -1,33 +1,29 @@
 #Change Log
 
-Team membership:  AB (Captain) & CD (Mate)  
+Team membership:  Karan (Captain) & Jake (Mate)  
 Team conventions: Allman notation, markdown for changelog  
 Changelog format: [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 
 
-## *Version x.x*
+## *Version 0.1*
 
-Release Date: Jul 26, 2027
+Release Date: Jan 24, 2017
 
 ## New Components
 
--   controllers
-
-    -   serbian (AB)
+-   CodeIgniter
     
 ## Updated Components
 
 -   controllers
 
-    -   german (CD)
-    -   hindi (CD)
-
--   models
-
-    -   italian (AB)
+    -   About.php (Jake)
+    -   Gallery.php (Jake)
+    -   Welcome.php (Jake)
 
 -   views
 
-    -   slovenian (AB)
-    -   swedish
+    -   about.php (Jake)
+    -   gallery.php (Jake)
+    -   welcome.php (Jake)
 
 
